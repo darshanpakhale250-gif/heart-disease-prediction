@@ -31,9 +31,3 @@ The dataset contains patient clinical features (age, chest pain type, blood pres
 
 ---
 
-## 📦 Requirements & Setup
-
-1. Clone repo:
-   ```bash
-   git clone https://github.com/<your-username>/heart-disease-prediction.git
-   cd heart-disease-prediction

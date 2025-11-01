@@ -1,0 +1,54 @@
+# =========================================
+# 🧠 Python + Google Colab Project .gitignore
+# =========================================
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+
+# Colab
+.ipynb_checkpoints
+*.ipynb
+/content/
+drive/
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.json
+*.zip
+
+# Graphviz outputs (tree visualizations)
+*.dot
+*.pdf
+random_forest_trees.zip
+
+# System / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Coverage / test outputs
+.coverage
+htmlcov/

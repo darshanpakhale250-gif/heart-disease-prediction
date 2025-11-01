@@ -14,7 +14,8 @@ The dataset contains patient clinical features (age, chest pain type, blood pres
 - `heart_disease_project.py` — main script (analysis, visualizations, model training & evaluation).
 - `requirements.txt` — Python dependencies.
 - `.gitignore` — common files to ignore.
-- (Optional) Notebook version for step-by-step exploration: `Heart_Disease_Project.ipynb` (if you add it).
+-  Notebook version for step-by-step exploration: `Heart_Disease_Project.ipynb`.
+-  also .py file 
 
 ---
 
